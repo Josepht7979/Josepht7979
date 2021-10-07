@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Josepht7979
-- 👀 I’m interested in Data Engineering
+- 👋 Hi, I’m @Joseph
+- 👀 Data Engineering
 
 <!---
 Josepht7979/Josepht7979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
